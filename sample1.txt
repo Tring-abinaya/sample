@@ -1,9 +1,5 @@
 Hi I am Abinaya
 1st commit
 2nd commit
-<<<<<<< HEAD
 3rd commit
 4th commit
-=======
-3rd commit
->>>>>>> 524eb23c89c67176211af4f98b9946cbf66ae2a8
